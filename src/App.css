@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.imgbx{
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.qty{
+  padding: 2px;
+  font-size: 1em;
+}
+
+h3{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+b{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
